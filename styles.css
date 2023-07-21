@@ -1,1 +1,5 @@
 /*  your css code here. If applicable */
+ p:first-child b {
+	color:red;
+	 text-shadow: 1px 1px 1px
+}
